@@ -20,7 +20,7 @@ object DatabaseBuilder {
         Room.databaseBuilder(
             context.applicationContext,
             AppDatabase::class.java,
-            "mindorks-example-coroutines"
+            "murodhonovuz-example-coroutines"
         ).build()
 
 }
